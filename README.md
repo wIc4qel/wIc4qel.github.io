@@ -4,30 +4,20 @@
 	"itemGroup.mm_wood": "Marvelous Materials Wood Blocks",
 	"itemGroup.mm_stained": "Marvelous Materials Stained Blocks",
 	"itemGroup.mm_other": "Marvelous Materials Other Blocks",
-
 	"effect.maidensmaterials.gatherers_glee": "Gatherer's Glee",
 	"effect.maidensmaterials.floral_fortune": "Floral Fortune",
-
-
 	"item.minecraft.potion.effect.gatherers_glee_potion": "Potion of Gatherer's Glee",
 	"item.minecraft.potion.effect.floral_fortune_potion": "Potion of Floral Fortune",
-
 	"item.minecraft.splash_potion.effect.gatherers_glee_potion": "Splash Potion of Gatherer's Glee",
 	"item.minecraft.splash_potion.effect.floral_fortune_potion": "Splash Potion of Floral Fortune",
-
 	"item.minecraft.lingering_potion.effect.gatherers_glee_potion": "Lingering Potion of Gatherer's Glee",
 	"item.minecraft.lingering_potion.effect.floral_fortune_potion": "Lingering Potion of Floral Fortune",
-
 	"item.minecraft.tipped_arrow.effect.gatherers_glee_potion": "Arrow of Gatherer's Glee",
 	"item.minecraft.tipped_arrow.effect.floral_fortune_potion": "Arrow of Floral Fortune",
-
 	"enchantment.maidensmaterials.fancy_feet": "Fancy Feet",
 	"enchantment.maidensmaterials.flower_power": "Flower Power",
-
 	"biome.maidensmaterials.ornamental_forest": "Ornamental Forest Biome",
-
 	"block.maidensmaterials.mortar_pestle": "Mortar & Pestle",
-
 	"block.maidensmaterials.red_stained_chest": "Red Stained Chest",
 	"block.maidensmaterials.orange_stained_chest": "Orange Stained Chest",
 	"block.maidensmaterials.yellow_stained_chest": "Yellow Stained Chest",
@@ -44,7 +34,6 @@
 	"block.maidensmaterials.gray_stained_chest": "Gray Stained Chest",
 	"block.maidensmaterials.black_stained_chest": "Black Stained Chest",
 	"block.maidensmaterials.brown_stained_chest": "Brown Stained Chest",
-
 	"block.maidensmaterials.crabapple_chest": "Crabapple Chest",
 	"block.maidensmaterials.poinciana_chest": "Poinciana Chest",
 	"block.maidensmaterials.laburnum_chest": "Laburnum Chest",
@@ -66,11 +55,8 @@
 	"block.maidensmaterials.mangrove_chest": "Mangrove Chest",
 	"block.maidensmaterials.cherry_chest": "Cherry Chest",
 	"block.maidensmaterials.bamboo_chest": "Bamboo Chest",
-
 	"info.maidens.flower_power": "Harness the power of the Ornamental Forest with your mighty...shovel. This enchantment grants the ability to harvest Ornamental Grass. Right click on an Ornamental Grass block with your enchanted shovel to reveal the Ornamental Pathway.",
-
 	"info.maidens.fancy_feet": "There is no reason to have this enchant, except to be Extra. This enchant leaves flowers in your wake whenever you walk across grass or dirt.",
-
 	"item.maidensmaterials.result": "results in: ",
 	"item.maidensmaterials.add": "mixed with: ",
 	"item.maidensmaterials.earthen_potion_item": "Gatherer's Glee Potion",
@@ -80,17 +66,13 @@
 	"item.maidensmaterials.mortar_and_pestle": " Mortar & Pestle",
 	"item.maidensmaterials.mica_powder": "Mica Powder",
 	"item.maidensmaterials.grout": "Grout",
-
-
 	"item.maidensmaterials.door_plans_1": "Door Plans 1",
 	"item.maidensmaterials.door_plans_2": "Door Plans 2",
 	"item.maidensmaterials.door_plans_3": "Door Plans 3",
 	"item.maidensmaterials.door_plans_4": "Door Plans 4",
 	"item.maidensmaterials.door_plans_5": "Door Plans 5",
 	"item.maidensmaterials.door_plans_6": "Door Plans 6",
-
 	"item.maidensmaterials.whitewash": "Whitewash",
-
 	"item.maidensmaterials.silverbell_blossoms": "SilverBell Blossoms",
 	"item.maidensmaterials.crabapple_blossoms": "Crabapple Blossoms",
 	"item.maidensmaterials.poinciana_blossoms": "Poinciana Blossoms",
@@ -101,7 +83,6 @@
 	"item.maidensmaterials.jacaranda_blossoms": "Jacaranda_Blossoms",
 	"item.maidensmaterials.wisteria_blossoms": "Wisteria Blossoms",
 	"item.maidensmaterials.floral_essence": "Floral Essence",
-
 	"item.maidensmaterials.amethyst_chunk": "Amethyst Chunk",
 	"item.maidensmaterials.aventurine_chunk": "Aventurine Chunk",
 	"item.maidensmaterials.carnelian_chunk": "Carnelian Chunk",
@@ -118,7 +99,6 @@
 	"item.maidensmaterials.dark_iron_mix": "Dark Iron Mixture",
 	"item.maidensmaterials.dark_iron_ingot": "Dark Iron Ingot",
 	"item.maidensmaterials.dark_iron_inlay": "Dark Iron Inlay",
-
 	"item.maidensmaterials.amethyst_fragments": "Amethyst Fragments",
 	"item.maidensmaterials.aventurine_fragments": "Aventurine Fragments",
 	"item.maidensmaterials.carnelian_fragments": "Carnelian Fragments",
@@ -131,8 +111,6 @@
 	"item.maidensmaterials.moonstone_fragments": "Moonstone Fragments",
 	"item.maidensmaterials.rose_quartz_fragments": "Rose Quartz Fragments",
 	"item.maidensmaterials.sodalite_fragments": "Sodalite Fragments",
-
-
 	"item.maidensmaterials.red_pigment": "Red Pigment",
 	"item.maidensmaterials.orange_pigment": "Orange Pigment",
 	"item.maidensmaterials.yellow_pigment": "Yellow Pigment",
@@ -149,7 +127,6 @@
 	"item.maidensmaterials.gray_pigment": "Gray Pigment",
 	"item.maidensmaterials.black_pigment": "Black Pigment",
 	"item.maidensmaterials.brown_pigment": "Brown Pigment",
-
 	"item.maidensmaterials.red_clay": "Red Clay",
 	"item.maidensmaterials.orange_clay": "Orange Clay",
 	"item.maidensmaterials.yellow_clay": "Yellow Clay",
@@ -166,7 +143,6 @@
 	"item.maidensmaterials.gray_clay": "Gray Clay",
 	"item.maidensmaterials.black_clay": "Black Clay",
 	"item.maidensmaterials.brown_clay": "Brown Clay",
-
 	"item.maidensmaterials.red_clay_mix": "Red Clay Mix",
 	"item.maidensmaterials.orange_clay_mix": "Orange Clay Mix",
 	"item.maidensmaterials.yellow_clay_mix": "Yellow Clay Mix",
@@ -183,7 +159,6 @@
 	"item.maidensmaterials.gray_clay_mix": "Gray Clay Mix",
 	"item.maidensmaterials.black_clay_mix": "Black Clay Mix",
 	"item.maidensmaterials.brown_clay_mix": "Brown Clay Mix",
-
 	"item.maidensmaterials.red_brick": "Red Brick",
 	"item.maidensmaterials.orange_brick": "Orange Brick",
 	"item.maidensmaterials.yellow_brick": "Yellow Brick",
@@ -200,7 +175,6 @@
 	"item.maidensmaterials.gray_brick": "Gray Brick",
 	"item.maidensmaterials.black_brick": "Black Brick",
 	"item.maidensmaterials.brown_brick": "Brown Brick",
-
 	"item.maidensmaterials.red_stain": "Red Wood Stain",
 	"item.maidensmaterials.orange_stain": "Orange Wood Stain",
 	"item.maidensmaterials.yellow_stain": "Yellow Wood Stain",
@@ -217,7 +191,6 @@
 	"item.maidensmaterials.gray_stain": "Gray Wood Stain",
 	"item.maidensmaterials.black_stain": "Black Wood Stain",
 	"item.maidensmaterials.brown_stain": "Brown Wood Stain",
-
 	"item.maidensmaterials.red_dye_bath": "Red Dye Bath",
 	"item.maidensmaterials.orange_dye_bath": "Orange Dye Bath",
 	"item.maidensmaterials.yellow_dye_bath": "Yellow Dye Bath",
@@ -234,7 +207,6 @@
 	"item.maidensmaterials.gray_dye_bath": "Gray Dye Bath",
 	"item.maidensmaterials.black_dye_bath": "Black Dye Bath",
 	"item.maidensmaterials.brown_dye_bath": "Brown Dye Bath",
-
 	"item.maidensmaterials.red_clay_vase": "Red Vase (Unfired)",
 	"item.maidensmaterials.orange_clay_vase": "Orange Vase (Unfired)",
 	"item.maidensmaterials.yellow_clay_vase": "Yellow Vase (Unfired)",
@@ -251,9 +223,6 @@
 	"item.maidensmaterials.gray_clay_vase": "Gray Vase (Unfired)",
 	"item.maidensmaterials.black_clay_vase": "Black Vase (Unfired)",
 	"item.maidensmaterials.brown_clay_vase": "Brown Vase (Unfired)",
-
-
-
 	"block.maidensmaterials.ornamental_path": "Ornamental Grass Path",
 	"block.maidensmaterials.ornamental_grass_normal": "Ornamental Grass",
 	"block.maidensmaterials.ornamental_grass": "Ornamental Grass with Flowers",
@@ -262,7 +231,6 @@
 	"block.maidensmaterials.vine_tie": "Vine Tie",
 	"block.maidensmaterials.flower_grass": "Vanishing Flowers",
 	"block.maidensmaterials.potted_ornamental_mushroom": "Potted Ornamental Mushroom",
-
 	"block.maidensmaterials.floral_essence_block": "Floral Essence Block",
 	"block.maidensmaterials.earthen_essence_block": "Earthen Essence Block",
 	"block.maidensmaterials.crabapple_cobblestone": "Vine-covered Cobblestone (Crabapple)",
@@ -274,7 +242,6 @@
 	"block.maidensmaterials.paulownia_cobblestone": "Vine-covered Cobblestone (Paulownia)",
 	"block.maidensmaterials.silverbell_cobblestone": "Vine-covered Cobblestone (Silverbell)",
 	"block.maidensmaterials.wisteria_cobblestone": "Vine-covered Cobblestone (Wisteria)",
-
 	"block.maidensmaterials.amethyst_block": "Amethyst Block",
 	"block.maidensmaterials.aventurine_block": "Aventurine Block",
 	"block.maidensmaterials.carnelian_block": "Carnelian Block",
@@ -287,7 +254,6 @@
 	"block.maidensmaterials.moonstone_block": "Moonstone Block",
 	"block.maidensmaterials.rose_quartz_block": "Rose Quartz Block",
 	"block.maidensmaterials.sodalite_block": "Sodalite Block",
-
 	"block.maidensmaterials.red_clay_block": "Red Clay Block",
 	"block.maidensmaterials.orange_clay_block": "Orange Clay Block",
 	"block.maidensmaterials.yellow_clay_block": "Yellow Clay Block",
@@ -304,7 +270,6 @@
 	"block.maidensmaterials.gray_clay_block": "Gray Clay Block",
 	"block.maidensmaterials.black_clay_block": "Black Clay Block",
 	"block.maidensmaterials.brown_clay_block": "Brown Clay Block",
-
 	"block.maidensmaterials.red_clay_stairs": "Red Clay Stairs",
 	"block.maidensmaterials.orange_clay_stairs": "Orange Clay Stairs",
 	"block.maidensmaterials.yellow_clay_stairs": "Yellow Clay Stairs",
@@ -321,7 +286,6 @@
 	"block.maidensmaterials.gray_clay_stairs": "Gray Clay Stairs",
 	"block.maidensmaterials.black_clay_stairs": "Black Clay Stairs",
 	"block.maidensmaterials.brown_clay_stairs": "Brown Clay Stairs",
-
 	"block.maidensmaterials.red_clay_slab": "Red Clay Slab",
 	"block.maidensmaterials.orange_clay_slab": "Orange Clay Slab",
 	"block.maidensmaterials.yellow_clay_slab": "Yellow Clay Slab",
@@ -338,7 +302,6 @@
 	"block.maidensmaterials.gray_clay_slab": "Gray Clay Slab",
 	"block.maidensmaterials.black_clay_slab": "Black Clay Slab",
 	"block.maidensmaterials.brown_clay_slab": "Brown Clay Slab",
-
 	"block.maidensmaterials.red_brick_block": "Red Bricks",
 	"block.maidensmaterials.orange_brick_block": "Orange Bricks",
 	"block.maidensmaterials.yellow_brick_block": "Yellow Bricks",
@@ -355,7 +318,6 @@
 	"block.maidensmaterials.gray_brick_block": "Gray Bricks",
 	"block.maidensmaterials.black_brick_block": "Black Bricks",
 	"block.maidensmaterials.brown_brick_block": "Brown Bricks",
-
 	"block.maidensmaterials.red_brick_stairs": "Red Brick Stairs",
 	"block.maidensmaterials.orange_brick_stairs": "Orange Brick Stairs",
 	"block.maidensmaterials.yellow_brick_stairs": "Yellow Brick Stairs",
@@ -372,7 +334,6 @@
 	"block.maidensmaterials.gray_brick_stairs": "Gray Brick Stairs",
 	"block.maidensmaterials.black_brick_stairs": "Black Brick Stairs",
 	"block.maidensmaterials.brown_brick_stairs": "Brown Brick Stairs",
-
 	"block.maidensmaterials.red_brick_slab": "Red Brick Slab",
 	"block.maidensmaterials.orange_brick_slab": "Orange Brick Slab",
 	"block.maidensmaterials.yellow_brick_slab": "Yellow Brick Slab",
@@ -389,8 +350,6 @@
 	"block.maidensmaterials.gray_brick_slab": "Gray Brick Slab",
 	"block.maidensmaterials.black_brick_slab": "Black Brick Slab",
 	"block.maidensmaterials.brown_brick_slab": "Brown Brick Slab",
-
-
 	"block.maidensmaterials.red_large_brick_block": "Red Large Bricks",
 	"block.maidensmaterials.orange_large_brick_block": "Orange Large Bricks",
 	"block.maidensmaterials.yellow_large_brick_block": "Yellow Large Bricks",
@@ -407,7 +366,6 @@
 	"block.maidensmaterials.gray_large_brick_block": "Gray Large Bricks",
 	"block.maidensmaterials.black_large_brick_block": "Black Large Bricks",
 	"block.maidensmaterials.brown_large_brick_block": "Brown Large Bricks",
-
 	"block.maidensmaterials.red_large_brick_stairs": "Red Large Bricks Stairs",
 	"block.maidensmaterials.orange_large_brick_stairs": "Orange Large Bricks Stairs",
 	"block.maidensmaterials.yellow_large_brick_stairs": "Yellow Large Bricks Stairs",
@@ -424,7 +382,6 @@
 	"block.maidensmaterials.gray_large_brick_stairs": "Gray Large Bricks Stairs",
 	"block.maidensmaterials.black_large_brick_stairs": "Black Large Bricks Stairs",
 	"block.maidensmaterials.brown_large_brick_stairs": "Brown Large Bricks Stairs",
-
 	"block.maidensmaterials.red_large_brick_slab": "Red Large Bricks Slab",
 	"block.maidensmaterials.orange_large_brick_slab": "Orange Large Bricks Slab",
 	"block.maidensmaterials.yellow_large_brick_slab": "Yellow Large Bricks Slab",
@@ -441,7 +398,6 @@
 	"block.maidensmaterials.gray_large_brick_slab": "Gray Large Bricks Slab",
 	"block.maidensmaterials.black_large_brick_slab": "Black Large Bricks Slab",
 	"block.maidensmaterials.brown_large_brick_slab": "Brown Large Bricks Slab",
-
 	"block.maidensmaterials.vase_red": "Red Vase",
 	"block.maidensmaterials.vase_orange": "Orange Vase",
 	"block.maidensmaterials.vase_yellow": "Yellow Vase",
@@ -458,7 +414,6 @@
 	"block.maidensmaterials.vase_gray": "Gray Vase",
 	"block.maidensmaterials.vase_black": "Black Vase",
 	"block.maidensmaterials.vase_brown": "Brown Vase",
-
 	"block.maidensmaterials.amethyst_ore": "Amethyst Ore",
 	"block.maidensmaterials.aventurine_ore": "Aventurine Ore",
 	"block.maidensmaterials.carnelian_ore": "Carnelian Ore",
@@ -471,7 +426,6 @@
 	"block.maidensmaterials.moonstone_ore": "Moonstone Ore",
 	"block.maidensmaterials.rose_quartz_ore": "Rose Quartz Ore",
 	"block.maidensmaterials.sodalite_ore": "Sodalite Ore",
-
 	"block.maidensmaterials.deepslate_amethyst_ore": "Deepslate Amethyst Ore",
 	"block.maidensmaterials.deepslate_aventurine_ore": "Deepslate Aventurine Ore",
 	"block.maidensmaterials.deepslate_carnelian_ore": "Deepslate Carnelian Ore",
@@ -484,266 +438,222 @@
 	"block.maidensmaterials.deepslate_moonstone_ore": "Deepslate Moonstone Ore",
 	"block.maidensmaterials.deepslate_rose_quartz_ore": "Deepslate Rose Quartz Ore",
 	"block.maidensmaterials.deepslate_sodalite_ore": "Deepslate Sodalite Ore",
-
-
-
 	"block.maidensmaterials.amethyst_1": "Amethyst Tile 1",
 	"block.maidensmaterials.amethyst_2": "Amethyst Tile 2",
 	"block.maidensmaterials.amethyst_3": "Amethyst Tile 3",
 	"block.maidensmaterials.amethyst_4": "Amethyst Tile 4",
 	"block.maidensmaterials.amethyst_5": "Amethyst Tile 5",
 	"block.maidensmaterials.amethyst_6": "Amethyst Tile 6",
-
 	"block.maidensmaterials.aventurine_1": "Aventurine Tile 1",
 	"block.maidensmaterials.aventurine_2": "Aventurine Tile 2",
 	"block.maidensmaterials.aventurine_3": "Aventurine Tile 3",
 	"block.maidensmaterials.aventurine_4": "Aventurine Tile 4",
 	"block.maidensmaterials.aventurine_5": "Aventurine Tile 5",
 	"block.maidensmaterials.aventurine_6": "Aventurine Tile 6",
-
 	"block.maidensmaterials.carnelian_1": "Carnelian Tile 1",
 	"block.maidensmaterials.carnelian_2": "Carnelian Tile 2",
 	"block.maidensmaterials.carnelian_3": "Carnelian Tile 3",
 	"block.maidensmaterials.carnelian_4": "Carnelian Tile 4",
 	"block.maidensmaterials.carnelian_5": "Carnelian Tile 5",
 	"block.maidensmaterials.carnelian_6": "Carnelian Tile 6",
-
 	"block.maidensmaterials.chalcopyrite_1": "Chalcopyrite Tile 1",
 	"block.maidensmaterials.chalcopyrite_2": "Chalcopyrite Tile 2",
 	"block.maidensmaterials.chalcopyrite_3": "Chalcopyrite Tile 3",
 	"block.maidensmaterials.chalcopyrite_4": "Chalcopyrite Tile 4",
 	"block.maidensmaterials.chalcopyrite_5": "Chalcopyrite Tile 5",
 	"block.maidensmaterials.chalcopyrite_6": "Chalcopyrite Tile 6",
-
 	"block.maidensmaterials.citrine_1": "Citrine Tile 1",
 	"block.maidensmaterials.citrine_2": "Citrine Tile 2",
 	"block.maidensmaterials.citrine_3": "Citrine Tile 3",
 	"block.maidensmaterials.citrine_4": "Citrine Tile 4",
 	"block.maidensmaterials.citrine_5": "Citrine Tile 5",
 	"block.maidensmaterials.citrine_6": "Citrine Tile 6",
-
 	"block.maidensmaterials.jade_1": "Jade Tile 1",
 	"block.maidensmaterials.jade_2": "Jade Tile 2",
 	"block.maidensmaterials.jade_3": "Jade Tile 3",
 	"block.maidensmaterials.jade_4": "Jade Tile 4",
 	"block.maidensmaterials.jade_5": "Jade Tile 5",
 	"block.maidensmaterials.jade_6": "Jade Tile 6",
-
 	"block.maidensmaterials.jasper_1": "Jasper Tile 1",
 	"block.maidensmaterials.jasper_2": "Jasper Tile 2",
 	"block.maidensmaterials.jasper_3": "Jasper Tile 3",
 	"block.maidensmaterials.jasper_4": "Jasper Tile 4",
 	"block.maidensmaterials.jasper_5": "Jasper Tile 5",
 	"block.maidensmaterials.jasper_6": "Jasper Tile 6",
-
 	"block.maidensmaterials.labradorite_1": "Labradorite Tile 1",
 	"block.maidensmaterials.labradorite_2": "Labradorite Tile 2",
 	"block.maidensmaterials.labradorite_3": "Labradorite Tile 3",
 	"block.maidensmaterials.labradorite_4": "Labradorite Tile 4",
 	"block.maidensmaterials.labradorite_5": "Labradorite Tile 5",
 	"block.maidensmaterials.labradorite_6": "Labradorite Tile 6",
-
 	"block.maidensmaterials.mica_1": "Mica Tile 1",
 	"block.maidensmaterials.mica_2": "Mica Tile 2",
 	"block.maidensmaterials.mica_3": "Mica Tile 3",
 	"block.maidensmaterials.mica_4": "Mica Tile 4",
 	"block.maidensmaterials.mica_5": "Mica Tile 5",
 	"block.maidensmaterials.mica_6": "Mica Tile 6",
-
 	"block.maidensmaterials.moonstone_1": "Moonstone Tile 1",
 	"block.maidensmaterials.moonstone_2": "Moonstone Tile 2",
 	"block.maidensmaterials.moonstone_3": "Moonstone Tile 3",
 	"block.maidensmaterials.moonstone_4": "Moonstone Tile 4",
 	"block.maidensmaterials.moonstone_5": "Moonstone Tile 5",
 	"block.maidensmaterials.moonstone_6": "Moonstone Tile 6",
-
 	"block.maidensmaterials.rose_quartz_1": "Rose Quartz Tile 1",
 	"block.maidensmaterials.rose_quartz_2": "Rose Quartz Tile 2",
 	"block.maidensmaterials.rose_quartz_3": "Rose Quartz Tile 3",
 	"block.maidensmaterials.rose_quartz_4": "Rose Quartz Tile 4",
 	"block.maidensmaterials.rose_quartz_5": "Rose Quartz Tile 5",
 	"block.maidensmaterials.rose_quartz_6": "Rose Quartz Tile 6",
-
 	"block.maidensmaterials.sodalite_1": "Sodalite Tile 1",
 	"block.maidensmaterials.sodalite_2": "Sodalite Tile 2",
 	"block.maidensmaterials.sodalite_3": "Sodalite Tile 3",
 	"block.maidensmaterials.sodalite_4": "Sodalite Tile 4",
 	"block.maidensmaterials.sodalite_5": "Sodalite Tile 5",
 	"block.maidensmaterials.sodalite_6": "Sodalite Tile 6",
-
-
-
 	"block.maidensmaterials.amethyst_1_stairs": "Amethyst Tile 1 Stairs",
 	"block.maidensmaterials.amethyst_2_stairs": "Amethyst Tile 2 Stairs",
 	"block.maidensmaterials.amethyst_3_stairs": "Amethyst Tile 3 Stairs",
 	"block.maidensmaterials.amethyst_4_stairs": "Amethyst Tile 4 Stairs",
 	"block.maidensmaterials.amethyst_5_stairs": "Amethyst Tile 5 Stairs",
 	"block.maidensmaterials.amethyst_6_stairs": "Amethyst Tile 6 Stairs",
-
 	"block.maidensmaterials.aventurine_1_stairs": "Aventurine Tile 1 Stairs",
 	"block.maidensmaterials.aventurine_2_stairs": "Aventurine Tile 2 Stairs",
 	"block.maidensmaterials.aventurine_3_stairs": "Aventurine Tile 3 Stairs",
 	"block.maidensmaterials.aventurine_4_stairs": "Aventurine Tile 4 Stairs",
 	"block.maidensmaterials.aventurine_5_stairs": "Aventurine Tile 5 Stairs",
 	"block.maidensmaterials.aventurine_6_stairs": "Aventurine Tile 6 Stairs",
-
 	"block.maidensmaterials.carnelian_1_stairs": "Carnelian Tile 1 Stairs",
 	"block.maidensmaterials.carnelian_2_stairs": "Carnelian Tile 2 Stairs",
 	"block.maidensmaterials.carnelian_3_stairs": "Carnelian Tile 3 Stairs",
 	"block.maidensmaterials.carnelian_4_stairs": "Carnelian Tile 4 Stairs",
 	"block.maidensmaterials.carnelian_5_stairs": "Carnelian Tile 5 Stairs",
 	"block.maidensmaterials.carnelian_6_stairs": "Carnelian Tile 6 Stairs",
-
 	"block.maidensmaterials.chalcopyrite_1_stairs": "Chalcopyrite Tile 1 Stairs",
 	"block.maidensmaterials.chalcopyrite_2_stairs": "Chalcopyrite Tile 2 Stairs",
 	"block.maidensmaterials.chalcopyrite_3_stairs": "Chalcopyrite Tile 3 Stairs",
 	"block.maidensmaterials.chalcopyrite_4_stairs": "Chalcopyrite Tile 4 Stairs",
 	"block.maidensmaterials.chalcopyrite_5_stairs": "Chalcopyrite Tile 5 Stairs",
 	"block.maidensmaterials.chalcopyrite_6_stairs": "Chalcopyrite Tile 6 Stairs",
-
 	"block.maidensmaterials.citrine_1_stairs": "Citrine Tile 1 Stairs",
 	"block.maidensmaterials.citrine_2_stairs": "Citrine Tile 2 Stairs",
 	"block.maidensmaterials.citrine_3_stairs": "Citrine Tile 3 Stairs",
 	"block.maidensmaterials.citrine_4_stairs": "Citrine Tile 4 Stairs",
 	"block.maidensmaterials.citrine_5_stairs": "Citrine Tile 5 Stairs",
 	"block.maidensmaterials.citrine_6_stairs": "Citrine Tile 6 Stairs",
-
 	"block.maidensmaterials.jade_1_stairs": "Jade Tile 1 Stairs",
 	"block.maidensmaterials.jade_2_stairs": "Jade Tile 2 Stairs",
 	"block.maidensmaterials.jade_3_stairs": "Jade Tile 3 Stairs",
 	"block.maidensmaterials.jade_4_stairs": "Jade Tile 4 Stairs",
 	"block.maidensmaterials.jade_5_stairs": "Jade Tile 5 Stairs",
 	"block.maidensmaterials.jade_6_stairs": "Jade Tile 6 Stairs",
-
 	"block.maidensmaterials.jasper_1_stairs": "Jasper Tile 1 Stairs",
 	"block.maidensmaterials.jasper_2_stairs": "Jasper Tile 2 Stairs",
 	"block.maidensmaterials.jasper_3_stairs": "Jasper Tile 3 Stairs",
 	"block.maidensmaterials.jasper_4_stairs": "Jasper Tile 4 Stairs",
 	"block.maidensmaterials.jasper_5_stairs": "Jasper Tile 5 Stairs",
 	"block.maidensmaterials.jasper_6_stairs": "Jasper Tile 6 Stairs",
-
 	"block.maidensmaterials.labradorite_1_stairs": "Labradorite Tile 1 Stairs",
 	"block.maidensmaterials.labradorite_2_stairs": "Labradorite Tile 2 Stairs",
 	"block.maidensmaterials.labradorite_3_stairs": "Labradorite Tile 3 Stairs",
 	"block.maidensmaterials.labradorite_4_stairs": "Labradorite Tile 4 Stairs",
 	"block.maidensmaterials.labradorite_5_stairs": "Labradorite Tile 5 Stairs",
 	"block.maidensmaterials.labradorite_6_stairs": "Labradorite Tile 6 Stairs",
-
 	"block.maidensmaterials.mica_1_stairs": "Mica Tile 1 Stairs",
 	"block.maidensmaterials.mica_2_stairs": "Mica Tile 2 Stairs",
 	"block.maidensmaterials.mica_3_stairs": "Mica Tile 3 Stairs",
 	"block.maidensmaterials.mica_4_stairs": "Mica Tile 4 Stairs",
 	"block.maidensmaterials.mica_5_stairs": "Mica Tile 5 Stairs",
 	"block.maidensmaterials.mica_6_stairs": "Mica Tile 6 Stairs",
-
 	"block.maidensmaterials.moonstone_1_stairs": "Moonstone Tile 1 Stairs",
 	"block.maidensmaterials.moonstone_2_stairs": "Moonstone Tile 2 Stairs",
 	"block.maidensmaterials.moonstone_3_stairs": "Moonstone Tile 3 Stairs",
 	"block.maidensmaterials.moonstone_4_stairs": "Moonstone Tile 4 Stairs",
 	"block.maidensmaterials.moonstone_5_stairs": "Moonstone Tile 5 Stairs",
 	"block.maidensmaterials.moonstone_6_stairs": "Moonstone Tile 6 Stairs",
-
 	"block.maidensmaterials.rose_quartz_1_stairs": "Rose Quartz Tile 1 Stairs",
 	"block.maidensmaterials.rose_quartz_2_stairs": "Rose Quartz Tile 2 Stairs",
 	"block.maidensmaterials.rose_quartz_3_stairs": "Rose Quartz Tile 3 Stairs",
 	"block.maidensmaterials.rose_quartz_4_stairs": "Rose Quartz Tile 4 Stairs",
 	"block.maidensmaterials.rose_quartz_5_stairs": "Rose Quartz Tile 5 Stairs",
 	"block.maidensmaterials.rose_quartz_6_stairs": "Rose Quartz Tile 6 Stairs",
-
 	"block.maidensmaterials.sodalite_1_stairs": "Sodalite Tile 1 Stairs",
 	"block.maidensmaterials.sodalite_2_stairs": "Sodalite Tile 2 Stairs",
 	"block.maidensmaterials.sodalite_3_stairs": "Sodalite Tile 3 Stairs",
 	"block.maidensmaterials.sodalite_4_stairs": "Sodalite Tile 4 Stairs",
 	"block.maidensmaterials.sodalite_5_stairs": "Sodalite Tile 5 Stairs",
 	"block.maidensmaterials.sodalite_6_stairs": "Sodalite Tile 6 Stairs",
-
 	"block.maidensmaterials.amethyst_1_slab": "Amethyst Tile 1 Slab",
 	"block.maidensmaterials.amethyst_2_slab": "Amethyst Tile 2 Slab",
 	"block.maidensmaterials.amethyst_3_slab": "Amethyst Tile 3 Slab",
 	"block.maidensmaterials.amethyst_4_slab": "Amethyst Tile 4 Slab",
 	"block.maidensmaterials.amethyst_5_slab": "Amethyst Tile 5 Slab",
 	"block.maidensmaterials.amethyst_6_slab": "Amethyst Tile 6 Slab",
-
 	"block.maidensmaterials.aventurine_1_slab": "Aventurine Tile 1 Slab",
 	"block.maidensmaterials.aventurine_2_slab": "Aventurine Tile 2 Slab",
 	"block.maidensmaterials.aventurine_3_slab": "Aventurine Tile 3 Slab",
 	"block.maidensmaterials.aventurine_4_slab": "Aventurine Tile 4 Slab",
 	"block.maidensmaterials.aventurine_5_slab": "Aventurine Tile 5 Slab",
 	"block.maidensmaterials.aventurine_6_slab": "Aventurine Tile 6 Slab",
-
 	"block.maidensmaterials.carnelian_1_slab": "Carnelian Tile 1 Slab",
 	"block.maidensmaterials.carnelian_2_slab": "Carnelian Tile 2 Slab",
 	"block.maidensmaterials.carnelian_3_slab": "Carnelian Tile 3 Slab",
 	"block.maidensmaterials.carnelian_4_slab": "Carnelian Tile 4 Slab",
 	"block.maidensmaterials.carnelian_5_slab": "Carnelian Tile 5 Slab",
 	"block.maidensmaterials.carnelian_6_slab": "Carnelian Tile 6 Slab",
-
 	"block.maidensmaterials.chalcopyrite_1_slab": "Chalcopyrite Tile 1 Slab",
 	"block.maidensmaterials.chalcopyrite_2_slab": "Chalcopyrite Tile 2 Slab",
 	"block.maidensmaterials.chalcopyrite_3_slab": "Chalcopyrite Tile 3 Slab",
 	"block.maidensmaterials.chalcopyrite_4_slab": "Chalcopyrite Tile 4 Slab",
 	"block.maidensmaterials.chalcopyrite_5_slab": "Chalcopyrite Tile 5 Slab",
 	"block.maidensmaterials.chalcopyrite_6_slab": "Chalcopyrite Tile 6 Slab",
-
 	"block.maidensmaterials.citrine_1_slab": "Citrine Tile 1 Slab",
 	"block.maidensmaterials.citrine_2_slab": "Citrine Tile 2 Slab",
 	"block.maidensmaterials.citrine_3_slab": "Citrine Tile 3 Slab",
 	"block.maidensmaterials.citrine_4_slab": "Citrine Tile 4 Slab",
 	"block.maidensmaterials.citrine_5_slab": "Citrine Tile 5 Slab",
 	"block.maidensmaterials.citrine_6_slab": "Citrine Tile 6 Slab",
-
 	"block.maidensmaterials.jade_1_slab": "Jade Tile 1 Slab",
 	"block.maidensmaterials.jade_2_slab": "Jade Tile 2 Slab",
 	"block.maidensmaterials.jade_3_slab": "Jade Tile 3 Slab",
 	"block.maidensmaterials.jade_4_slab": "Jade Tile 4 Slab",
 	"block.maidensmaterials.jade_5_slab": "Jade Tile 5 Slab",
 	"block.maidensmaterials.jade_6_slab": "Jade Tile 6 Slab",
-
 	"block.maidensmaterials.jasper_1_slab": "Jasper Tile 1 Slab",
 	"block.maidensmaterials.jasper_2_slab": "Jasper Tile 2 Slab",
 	"block.maidensmaterials.jasper_3_slab": "Jasper Tile 3 Slab",
 	"block.maidensmaterials.jasper_4_slab": "Jasper Tile 4 Slab",
 	"block.maidensmaterials.jasper_5_slab": "Jasper Tile 5 Slab",
 	"block.maidensmaterials.jasper_6_slab": "Jasper Tile 6 Slab",
-
 	"block.maidensmaterials.labradorite_1_slab": "Labradorite Tile 1 Slab",
 	"block.maidensmaterials.labradorite_2_slab": "Labradorite Tile 2 Slab",
 	"block.maidensmaterials.labradorite_3_slab": "Labradorite Tile 3 Slab",
 	"block.maidensmaterials.labradorite_4_slab": "Labradorite Tile 4 Slab",
 	"block.maidensmaterials.labradorite_5_slab": "Labradorite Tile 5 Slab",
 	"block.maidensmaterials.labradorite_6_slab": "Labradorite Tile 6 Slab",
-
 	"block.maidensmaterials.mica_1_slab": "Mica Tile 1 Slab",
 	"block.maidensmaterials.mica_2_slab": "Mica Tile 2 Slab",
 	"block.maidensmaterials.mica_3_slab": "Mica Tile 3 Slab",
 	"block.maidensmaterials.mica_4_slab": "Mica Tile 4 Slab",
 	"block.maidensmaterials.mica_5_slab": "Mica Tile 5 Slab",
 	"block.maidensmaterials.mica_6_slab": "Mica Tile 6 Slab",
-
 	"block.maidensmaterials.moonstone_1_slab": "Moonstone Tile 1 Slab",
 	"block.maidensmaterials.moonstone_2_slab": "Moonstone Tile 2 Slab",
 	"block.maidensmaterials.moonstone_3_slab": "Moonstone Tile 3 Slab",
 	"block.maidensmaterials.moonstone_4_slab": "Moonstone Tile 4 Slab",
 	"block.maidensmaterials.moonstone_5_slab": "Moonstone Tile 5 Slab",
 	"block.maidensmaterials.moonstone_6_slab": "Moonstone Tile 6 Slab",
-
 	"block.maidensmaterials.rose_quartz_1_slab": "Rose Quartz Tile 1 Slab",
 	"block.maidensmaterials.rose_quartz_2_slab": "Rose Quartz Tile 2 Slab",
 	"block.maidensmaterials.rose_quartz_3_slab": "Rose Quartz Tile 3 Slab",
 	"block.maidensmaterials.rose_quartz_4_slab": "Rose Quartz Tile 4 Slab",
 	"block.maidensmaterials.rose_quartz_5_slab": "Rose Quartz Tile 5 Slab",
 	"block.maidensmaterials.rose_quartz_6_slab": "Rose Quartz Tile 6 Slab",
-
 	"block.maidensmaterials.sodalite_1_slab": "Sodalite Tile 1 Slab",
 	"block.maidensmaterials.sodalite_2_slab": "Sodalite Tile 2 Slab",
 	"block.maidensmaterials.sodalite_3_slab": "Sodalite Tile 3 Slab",
 	"block.maidensmaterials.sodalite_4_slab": "Sodalite Tile 4 Slab",
 	"block.maidensmaterials.sodalite_5_slab": "Sodalite Tile 5 Slab",
 	"block.maidensmaterials.sodalite_6_slab": "Sodalite Tile 6 Slab",
-
-
-
-
 	"block.maidensmaterials.paulownia_planks": "Paulownia Planks",
 	"block.maidensmaterials.poinciana_planks": "Poinciana Planks",
 	"block.maidensmaterials.laburnum_planks": "Laburnum Planks",
@@ -755,7 +665,6 @@
 	"block.maidensmaterials.silverbell_planks": "SilverBell Planks",
 	"block.maidensmaterials.cedar_planks": "Cedar Planks",
 	"block.maidensmaterials.whitewashed_planks": "Whitewashed Planks",
-
 	"block.maidensmaterials.paulownia_bookshelf": "Paulownia Bookshelf",
 	"block.maidensmaterials.poinciana_bookshelf": "Poinciana Bookshelf",
 	"block.maidensmaterials.laburnum_bookshelf": "Laburnum Bookshelf",
@@ -766,7 +675,6 @@
 	"block.maidensmaterials.crabapple_bookshelf": "Crabapple Bookshelf",
 	"block.maidensmaterials.silverbell_bookshelf": "SilverBell Bookshelf",
 	"block.maidensmaterials.cedar_bookshelf": "Cedar Bookshelf",
-
 	"block.maidensmaterials.acacia_bookshelf": "Acacia Bookshelf",
 	"block.maidensmaterials.birch_bookshelf": "Birch Bookshelf",
 	"block.maidensmaterials.oak_bookshelf": "Oak Bookshelf",
@@ -778,7 +686,6 @@
 	"block.maidensmaterials.mangrove_bookshelf": "Mangrove Bookshelf",
 	"block.maidensmaterials.cherry_bookshelf": "Cherry Bookshelf",
 	"block.maidensmaterials.bamboo_bookshelf": "Bamboo Bookshelf",
-
 	"block.maidensmaterials.paulownia_pressure_plate": "Paulownia Pressure Plate",
 	"block.maidensmaterials.poinciana_pressure_plate": "Poinciana Pressure Plate",
 	"block.maidensmaterials.jade_pressure_plate": "Jade Pressure Plate",
@@ -790,14 +697,12 @@
 	"block.maidensmaterials.silverbell_pressure_plate": "SilverBell Pressure Plate",
 	"block.maidensmaterials.cedar_pressure_plate": "Cedar Pressure Plate",
 	"block.maidensmaterials.whitewashed_pressure_plate": "Whitewashed Pressure Plate",
-
 	"block.maidensmaterials.acacia_pressure_plate": "Acacia Pressure Plate",
 	"block.maidensmaterials.birch_pressure_plate": "Birch Pressure Plate",
 	"block.maidensmaterials.oak_pressure_plate": "Oak Pressure Plate",
 	"block.maidensmaterials.spruce_pressure_plate": "Spruce Pressure Plate",
 	"block.maidensmaterials.dark_oak_pressure_plate": "Dark Oak Pressure Plate",
 	"block.maidensmaterials.jungle_pressure_plate": "Jungle Pressure Plate",
-
 	"block.maidensmaterials.paulownia_button": "Paulownia Button",
 	"block.maidensmaterials.poinciana_button": "Poinciana Button",
 	"block.maidensmaterials.jade_button": "Jade Button",
@@ -809,14 +714,12 @@
 	"block.maidensmaterials.silverbell_button": "SilverBell Button",
 	"block.maidensmaterials.cedar_button": "Cedar Button",
 	"block.maidensmaterials.whitewashed_button": "Whitewashed Button",
-
 	"block.maidensmaterials.acacia_button": "Acacia Button",
 	"block.maidensmaterials.birch_button": "Birch Button",
 	"block.maidensmaterials.oak_button": "Oak Button",
 	"block.maidensmaterials.spruce_button": "Spruce Button",
 	"block.maidensmaterials.dark_oak_button": "Dark Oak Button",
 	"block.maidensmaterials.jungle_button": "Jungle Button",
-
 	"block.maidensmaterials.paulownia_slab": "Paulownia Slab",
 	"block.maidensmaterials.poinciana_slab": "Poinciana Slab",
 	"block.maidensmaterials.jade_slab": "Jade Slab",
@@ -828,7 +731,6 @@
 	"block.maidensmaterials.silverbell_slab": "SilverBell Slab",
 	"block.maidensmaterials.cedar_slab": "Cedar Slab",
 	"block.maidensmaterials.whitewashed_slab": "Whitewashed Slab",
-
 	"block.maidensmaterials.paulownia_stairs": "Paulownia Stairs",
 	"block.maidensmaterials.poinciana_stairs": "Poinciana Stairs",
 	"block.maidensmaterials.jade_stairs": "Jade Stairs",
@@ -840,7 +742,6 @@
 	"block.maidensmaterials.silverbell_stairs": "SilverBell Stairs",
 	"block.maidensmaterials.cedar_stairs": "Cedar Stairs",
 	"block.maidensmaterials.whitewashed_stairs": "Whitewashed Stairs",
-
 	"block.maidensmaterials.paulownia_fence": "Paulownia Fence",
 	"block.maidensmaterials.poinciana_fence": "Poinciana Fence",
 	"block.maidensmaterials.jade_fence": "Jade Fence",
@@ -852,7 +753,6 @@
 	"block.maidensmaterials.silverbell_fence": "Silverbell Fence",
 	"block.maidensmaterials.cedar_fence": "Cedar Fence",
 	"block.maidensmaterials.whitewashed_fence": "Whitewashed Fence",
-
 	"block.maidensmaterials.paulownia_fence_gate": "Paulownia Fence Gate",
 	"block.maidensmaterials.poinciana_fence_gate": "Poinciana Fence Gate",
 	"block.maidensmaterials.jade_fence_gate": "Jade Fence Gate",
@@ -864,9 +764,6 @@
 	"block.maidensmaterials.silverbell_fence_gate": "SilverBell Fence Gate",
 	"block.maidensmaterials.cedar_fence_gate": "Cedar Fence Gate",
 	"block.maidensmaterials.whitewashed_fence_gate": "Whitewashed Fence Gate",
-
-
-
 	"block.maidensmaterials.paulownia_log": "Paulownia Log",
 	"block.maidensmaterials.poinciana_log": "Poinciana Log",
 	"block.maidensmaterials.jade_log": "Jade Log",
@@ -877,7 +774,6 @@
 	"block.maidensmaterials.crabapple_log": "Crabapple Log",
 	"block.maidensmaterials.dogwood_log": "Dogwood Log",
 	"block.maidensmaterials.cedar_log": "Cedar Log",
-
 	"block.maidensmaterials.stripped_paulownia_log": "Stripped Paulownia Log",
 	"block.maidensmaterials.stripped_poinciana_log": "Stripped Poinciana Log",
 	"block.maidensmaterials.stripped_jade_log": "Stripped Jade Log",
@@ -888,7 +784,6 @@
 	"block.maidensmaterials.stripped_crabapple_log": "Stripped Crabapple Log",
 	"block.maidensmaterials.stripped_dogwood_log": "Stripped Dogwood Log",
 	"block.maidensmaterials.stripped_cedar_log": "Stripped Cedar Log",
-
 	"block.maidensmaterials.stripped_paulownia_wood": "Stripped Paulownia Wood",
 	"block.maidensmaterials.stripped_poinciana_wood": "Stripped Poinciana Wood",
 	"block.maidensmaterials.stripped_jade_wood": "Stripped Jade Wood",
@@ -899,7 +794,6 @@
 	"block.maidensmaterials.stripped_crabapple_wood": "Stripped Crabapple Wood",
 	"block.maidensmaterials.stripped_dogwood_wood": "Stripped Dogwood Wood",
 	"block.maidensmaterials.stripped_cedar_wood": "Stripped Cedar Wood",
-
 	"block.maidensmaterials.paulownia_wood": "Paulownia Wood",
 	"block.maidensmaterials.poinciana_wood": "Poinciana Wood",
 	"block.maidensmaterials.jade_wood": "Jade Wood",
@@ -910,7 +804,6 @@
 	"block.maidensmaterials.crabapple_wood": "Crabapple Wood",
 	"block.maidensmaterials.dogwood_wood": "Dogwood Wood",
 	"block.maidensmaterials.cedar_wood": "Cedar Wood",
-
 	"block.maidensmaterials.paulownia_leaves": "Paulownia Leaves",
 	"block.maidensmaterials.poinciana_leaves": "Poinciana Leaves",
 	"block.maidensmaterials.laburnum_leaves": "Laburnum Leaves",
@@ -921,7 +814,6 @@
 	"block.maidensmaterials.crabapple_leaves": "Crabapple Leaves",
 	"block.maidensmaterials.dogwood_leaves": "Dogwood Leaves",
 	"block.maidensmaterials.cedar_leaves": "Cedar Leaves",
-
 	"block.maidensmaterials.paulownia_sapling": "Paulownia Sapling",
 	"block.maidensmaterials.poinciana_sapling": "Poinciana Sapling",
 	"block.maidensmaterials.jade_sapling": "Jade Sapling",
@@ -932,7 +824,6 @@
 	"block.maidensmaterials.crabapple_sapling": "Crabapple Sapling",
 	"block.maidensmaterials.dogwood_sapling": "Dogwood Sapling",
 	"block.maidensmaterials.cedar_sapling": "Cedar Sapling",
-
 	"block.maidensmaterials.jacaranda_vine": "Jacaranda Vines",
 	"block.maidensmaterials.poinciana_vine": "Poinciana Vines",
 	"block.maidensmaterials.jade_vine": "Jade Vines",
@@ -943,7 +834,6 @@
 	"block.maidensmaterials.crabapple_vine": "Crabapple Vines",
 	"block.maidensmaterials.dogwood_vine": "Dogwood Vines",
 	"block.maidensmaterials.cedar_vine": "Cedar Vines",
-
 	"block.maidensmaterials.red_stained_planks": "Red Stained Planks",
 	"block.maidensmaterials.orange_stained_planks": "Orange Stained Planks",
 	"block.maidensmaterials.yellow_stained_planks": "Yellow Stained Planks",
@@ -960,7 +850,6 @@
 	"block.maidensmaterials.gray_stained_planks": "Gray Stained Planks",
 	"block.maidensmaterials.black_stained_planks": "Black Stained Planks",
 	"block.maidensmaterials.brown_stained_planks": "Brown Stained Planks",
-
 	"block.maidensmaterials.red_stained_bookshelf": "Red Stained Bookshelf",
 	"block.maidensmaterials.orange_stained_bookshelf": "Orange Stained Bookshelf",
 	"block.maidensmaterials.yellow_stained_bookshelf": "Yellow Stained Bookshelf",
@@ -977,7 +866,6 @@
 	"block.maidensmaterials.gray_stained_bookshelf": "Gray Stained Bookshelf",
 	"block.maidensmaterials.black_stained_bookshelf": "Black Stained Bookshelf",
 	"block.maidensmaterials.brown_stained_bookshelf": "Brown Stained Bookshelf",
-
 	"block.maidensmaterials.red_stained_slab": "Red Stained Slab",
 	"block.maidensmaterials.orange_stained_slab": "Orange Stained Slab",
 	"block.maidensmaterials.yellow_stained_slab": "Yellow Stained Slab",
@@ -994,7 +882,6 @@
 	"block.maidensmaterials.gray_stained_slab": "Gray Stained Slab",
 	"block.maidensmaterials.black_stained_slab": "Black Stained Slab",
 	"block.maidensmaterials.brown_stained_slab": "Brown Stained Slab",
-
 	"block.maidensmaterials.red_stained_stairs": "Red Stained Stairs",
 	"block.maidensmaterials.orange_stained_stairs": "Orange Stained Stairs",
 	"block.maidensmaterials.yellow_stained_stairs": "Yellow Stained Stairs",
@@ -1011,7 +898,6 @@
 	"block.maidensmaterials.gray_stained_stairs": "Gray Stained Stairs",
 	"block.maidensmaterials.black_stained_stairs": "Black Stained Stairs",
 	"block.maidensmaterials.brown_stained_stairs": "Brown Stained Stairs",
-
 	"block.maidensmaterials.red_stained_fence": "Red Stained Fence",
 	"block.maidensmaterials.orange_stained_fence": "Orange Stained Fence",
 	"block.maidensmaterials.yellow_stained_fence": "Yellow Stained Fence",
@@ -1028,7 +914,6 @@
 	"block.maidensmaterials.gray_stained_fence": "Gray Stained Fence",
 	"block.maidensmaterials.black_stained_fence": "Black Stained Fence",
 	"block.maidensmaterials.brown_stained_fence": "Brown Stained Fence",
-
 	"block.maidensmaterials.red_stained_fence_gate": "Red Stained Fence Gate",
 	"block.maidensmaterials.orange_stained_fence_gate": "Orange Stained Fence Gate",
 	"block.maidensmaterials.yellow_stained_fence_gate": "Yellow Stained Fence Gate",
@@ -1045,7 +930,6 @@
 	"block.maidensmaterials.gray_stained_fence_gate": "Gray Stained Fence Gate",
 	"block.maidensmaterials.black_stained_fence_gate": "Black Stained Fence Gate",
 	"block.maidensmaterials.brown_stained_fence_gate": "Brown Stained Fence Gate",
-
 	"block.maidensmaterials.red_stained_pressure_plate": "Red Pressure Plate",
 	"block.maidensmaterials.orange_stained_pressure_plate": "Orange Pressure Plate",
 	"block.maidensmaterials.yellow_stained_pressure_plate": "Yellow Pressure Plate",
@@ -1062,7 +946,6 @@
 	"block.maidensmaterials.gray_stained_pressure_plate": "Gray Pressure Plate",
 	"block.maidensmaterials.black_stained_pressure_plate": "Black Pressure Plate",
 	"block.maidensmaterials.brown_stained_pressure_plate": "Brown Pressure Plate",
-
 	"block.maidensmaterials.red_stained_button": "Red Stained Button",
 	"block.maidensmaterials.orange_stained_button": "Orange Stained Button",
 	"block.maidensmaterials.yellow_stained_button": "Yellow Stained Button",
@@ -1079,7 +962,6 @@
 	"block.maidensmaterials.gray_stained_button": "Gray Stained Button",
 	"block.maidensmaterials.black_stained_button": "Black Stained Button",
 	"block.maidensmaterials.brown_stained_button": "Brown Stained Button",
-
 	"block.maidensmaterials.red_stained_door_1": "Red Door 1",
 	"block.maidensmaterials.orange_stained_door_1": "Orange Door 1",
 	"block.maidensmaterials.yellow_stained_door_1": "Yellow Door 1",
@@ -1117,7 +999,6 @@
 	"block.maidensmaterials.silverbell_door_1": "SilverBell Door 1",
 	"block.maidensmaterials.poinciana_door_1": "Poinciana Door 1",
 	"block.maidensmaterials.jade_door_1": "Jade Door 1",
-
 	"block.maidensmaterials.red_stained_door_2": "Red Door 2",
 	"block.maidensmaterials.orange_stained_door_2": "Orange Door 2",
 	"block.maidensmaterials.yellow_stained_door_2": "Yellow Door 2",
@@ -1155,7 +1036,6 @@
 	"block.maidensmaterials.silverbell_door_2": "SilverBell Door 2",
 	"block.maidensmaterials.poinciana_door_2": "Poinciana Door 2",
 	"block.maidensmaterials.jade_door_2": "Jade Door 2",
-
 	"block.maidensmaterials.red_stained_door_3": "Red Door 3",
 	"block.maidensmaterials.orange_stained_door_3": "Orange Door 3",
 	"block.maidensmaterials.yellow_stained_door_3": "Yellow Door 3",
@@ -1193,7 +1073,6 @@
 	"block.maidensmaterials.silverbell_door_3": "SilverBell Door 3",
 	"block.maidensmaterials.poinciana_door_3": "Poinciana Door 3",
 	"block.maidensmaterials.jade_door_3": "Jade Door 3",
-
 	"block.maidensmaterials.red_stained_door_4": "Red Door 4",
 	"block.maidensmaterials.orange_stained_door_4": "Orange Door 4",
 	"block.maidensmaterials.yellow_stained_door_4": "Yellow Door 4",
@@ -1231,7 +1110,6 @@
 	"block.maidensmaterials.silverbell_door_4": "SilverBell Door 4",
 	"block.maidensmaterials.poinciana_door_4": "Poinciana Door 4",
 	"block.maidensmaterials.jade_door_4": "Jade Door 4",
-
 	"block.maidensmaterials.red_stained_door_5": "Red Door 5",
 	"block.maidensmaterials.orange_stained_door_5": "Orange Door 5",
 	"block.maidensmaterials.yellow_stained_door_5": "Yellow Door 5",
@@ -1269,7 +1147,6 @@
 	"block.maidensmaterials.silverbell_door_5": "SilverBell Door 5",
 	"block.maidensmaterials.poinciana_door_5": "Poinciana Door 5",
 	"block.maidensmaterials.jade_door_5": "Jade Door 5",
-
 	"block.maidensmaterials.red_stained_door_6": "Red Door 6",
 	"block.maidensmaterials.orange_stained_door_6": "Orange Door 6",
 	"block.maidensmaterials.yellow_stained_door_6": "Yellow Door 6",
@@ -1307,7 +1184,6 @@
 	"block.maidensmaterials.silverbell_door_6": "SilverBell Door 6",
 	"block.maidensmaterials.poinciana_door_6": "Poinciana Door 6",
 	"block.maidensmaterials.jade_door_6": "Jade Door 6",
-
 	"block.maidensmaterials.red_stained_trapdoor_1": "Red Trapdoor 1",
 	"block.maidensmaterials.orange_stained_trapdoor_1": "Orange Trapdoor 1",
 	"block.maidensmaterials.yellow_stained_trapdoor_1": "Yellow Trapdoor 1",
@@ -1345,7 +1221,6 @@
 	"block.maidensmaterials.silverbell_trapdoor_1": "SilverBell Trapdoor 1",
 	"block.maidensmaterials.poinciana_trapdoor_1": "Poinciana Trapdoor 1",
 	"block.maidensmaterials.jade_trapdoor_1": "Jade Trapdoor 1",
-
 	"block.maidensmaterials.red_stained_trapdoor_2": "Red Trapdoor 2",
 	"block.maidensmaterials.orange_stained_trapdoor_2": "Orange Trapdoor 2",
 	"block.maidensmaterials.yellow_stained_trapdoor_2": "Yellow Trapdoor 2",
@@ -1383,7 +1258,6 @@
 	"block.maidensmaterials.silverbell_trapdoor_2": "SilverBell Trapdoor 2",
 	"block.maidensmaterials.poinciana_trapdoor_2": "Poinciana Trapdoor 2",
 	"block.maidensmaterials.jade_trapdoor_2": "Jade Trapdoor 2",
-
 	"block.maidensmaterials.red_stained_trapdoor_3": "Red Trapdoor 3",
 	"block.maidensmaterials.orange_stained_trapdoor_3": "Orange Trapdoor 3",
 	"block.maidensmaterials.yellow_stained_trapdoor_3": "Yellow Trapdoor 3",
@@ -1421,7 +1295,6 @@
 	"block.maidensmaterials.silverbell_trapdoor_3": "SilverBell Trapdoor 3",
 	"block.maidensmaterials.poinciana_trapdoor_3": "Poinciana Trapdoor 3",
 	"block.maidensmaterials.jade_trapdoor_3": "Jade Trapdoor 3",
-
 	"block.maidensmaterials.red_stained_trapdoor_4": "Red Trapdoor 4",
 	"block.maidensmaterials.orange_stained_trapdoor_4": "Orange Trapdoor 4",
 	"block.maidensmaterials.yellow_stained_trapdoor_4": "Yellow Trapdoor 4",
