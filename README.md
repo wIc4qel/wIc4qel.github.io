@@ -1,5 +1,4 @@
 {
-
 	"itemGroup.mm_items": "Marvelous Materials Items",
 	"itemGroup.mm_wood": "Marvelous Materials Wood Blocks",
 	"itemGroup.mm_stained": "Marvelous Materials Stained Blocks",
@@ -1332,5 +1331,4 @@
 	"block.maidensmaterials.silverbell_trapdoor_4": "SilverBell Trapdoor 4",
 	"block.maidensmaterials.poinciana_trapdoor_4": "Poinciana Trapdoor 4",
 	"block.maidensmaterials.jade_trapdoor_4": "Jade Trapdoor 4"
-
 }
