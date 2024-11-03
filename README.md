@@ -18,8 +18,6 @@
     "block.more_beautiful_torches.andesite_redstone_torch": "Andesite Redstone Torch", 
     "block.more_beautiful_torches.andesite_soul_torch": "Andesite Soul Torch", 
     "block.more_beautiful_torches.andesite_torch": "Andesite Torch",
-
-
     "block.more_beautiful_torches.bamboo_block_redstone_torch": "Bamboo Block Redstone Torch",
     "block.more_beautiful_torches.bamboo_block_soul_torch": "Bamboo Block Soul Torch",
     "block.more_beautiful_torches.bamboo_block_torch": "Bamboo Block Torch",
@@ -29,7 +27,6 @@
     "block.more_beautiful_torches.bamboo_planks_redstone_torch": "Bamboo Planks Redstone Torch",
     "block.more_beautiful_torches.bamboo_planks_soul_torch": "Bamboo Planks Soul Torch",
     "block.more_beautiful_torches.bamboo_planks_torch": "Bamboo Planks Torch",
-
     "block.more_beautiful_torches.basalt_redstone_torch": "Basalt Redstone Torch", 
     "block.more_beautiful_torches.basalt_soul_torch": "Basalt Soul Torch", 
     "block.more_beautiful_torches.basalt_torch": "Basalt Torch", 
